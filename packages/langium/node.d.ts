@@ -1,2 +1,2 @@
 /* eslint-disable header/header */
-export * from './lib/test';
+export * from './lib/node';
